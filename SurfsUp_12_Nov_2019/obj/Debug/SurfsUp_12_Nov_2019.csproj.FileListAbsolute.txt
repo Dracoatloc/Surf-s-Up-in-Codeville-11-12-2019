@@ -1,0 +1,7 @@
+C:\Users\mtorr\source\repos\SurfsUp_12_Nov_2019\bin\Debug\SurfsUp_12_Nov_2019.exe.config
+C:\Users\mtorr\source\repos\SurfsUp_12_Nov_2019\bin\Debug\SurfsUp_12_Nov_2019.exe
+C:\Users\mtorr\source\repos\SurfsUp_12_Nov_2019\bin\Debug\SurfsUp_12_Nov_2019.pdb
+C:\Users\mtorr\source\repos\SurfsUp_12_Nov_2019\obj\Debug\SurfsUp_12_Nov_2019.csprojAssemblyReference.cache
+C:\Users\mtorr\source\repos\SurfsUp_12_Nov_2019\obj\Debug\SurfsUp_12_Nov_2019.csproj.CoreCompileInputs.cache
+C:\Users\mtorr\source\repos\SurfsUp_12_Nov_2019\obj\Debug\SurfsUp_12_Nov_2019.exe
+C:\Users\mtorr\source\repos\SurfsUp_12_Nov_2019\obj\Debug\SurfsUp_12_Nov_2019.pdb
